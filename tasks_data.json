@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "date": "2026-08-10",
+    "name": "learning python",
+    "category": "study",
+    "planned_minutes": 60,
+    "actual_minutes": 0,
+    "status": "Not Started"
+  }
+]
